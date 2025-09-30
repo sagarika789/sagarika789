@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Sagarika
+# Hi, I'm Sagarika
 
-### 💻 Final Year B.Tech CSE (AI) | Focused on AI/ML & Data Science
+### Final Year B.Tech CSE (AI) | Focused on AI/ML & Data Science
 
 I am a final-year Computer Science & Engineering student at **Manipal Institute of Technology, Bengaluru**, specializing in **Artificial Intelligence** with a minor in **Data Analytics**.  
 Passionate about solving real-world problems, I focus on building **data-driven, scalable AI/ML solutions** — from model development to deployment.
 
 ---
 
-## 🚀 Key Areas of Expertise
+## Key Areas of Expertise
 
 My work spans the **entire Machine Learning lifecycle**, from data preparation to production-ready deployment.
 
@@ -21,7 +21,7 @@ My work spans the **entire Machine Learning lifecycle**, from data preparation t
 
 ---
 
-## ✨ Featured AI/ML Projects
+## Featured AI/ML Projects
 
 These projects highlight how I bring **theory into practice** and build end-to-end solutions.  
 *(See pinned repositories below for code and documentation.)*
@@ -35,7 +35,7 @@ These projects highlight how I bring **theory into practice** and build end-to-e
 
 ---
 
-## 🎯 Education & Goals
+## Education & Goals
 
 * **B.Tech in Computer Science & Engineering (AI specialization, Data Analytics minor)**  
   *Manipal Institute of Technology, Bengaluru* (Expected Graduation: 2026)  
