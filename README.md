@@ -28,7 +28,7 @@ These projects highlight how I bring **theory into practice** and build end-to-e
 
 | Project | Focus | Result/Impact |
 | :--- | :--- | :--- |
-| **Delivery Delay Prediction** | ML regression & classification for supply chain delivery delay | Exploring delay cost estimation |
+| **E-commerce Delivery Delay Prediction** | ML regression & classification for supply chain delivery delay | Exploring delay cost estimation |
 | **Gesture Recognition for Kathakali** | Deep Learning + CV | Built CNN/RNN-based models to classify classical dance mudras |
 | **VRLA Battery Health Prediction - Schneider Electric Internship** | Predictive Maintenance | Modeled battery degradation patterns from sensor logs for proactive maintenance |
 | **Pac-Man with DQN** | Reinforcement Learning | Implemented Deep Q-Network to learn optimal gameplay strategies |
